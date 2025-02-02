@@ -9,9 +9,6 @@
 -Personalized resource recommendations based on age categories
 -Fully responsive design
 
-**🌐 Live Demo**
-[Insert live URL if hosted]
-
 **📋 Technologies Used**
 HTML: For structuring the content
 CSS: For styling and layout
